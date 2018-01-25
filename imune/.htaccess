@@ -1,0 +1,2 @@
+#Adjust default time zone
+SetEnv TZ America/Sao_Paulo

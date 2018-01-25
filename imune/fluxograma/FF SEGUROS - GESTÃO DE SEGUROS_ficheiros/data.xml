@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="DASHBOARD" NameU="Top Process">
+			<Layer IX="0">
+				<Name>Fluxograma</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Conexão</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="2">
+				<Name>Contentor</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="165" UniqueID="{3C80A01C-16BD-4887-ACDB-95F991FCE865}" Name="Design" NameU="Design" Master="23">
+					<Text>DASHBOARD E TELA INICIAL</Text>
+					<XForm>
+						<PinX Unit="MM">5.708661417322833</PinX>
+						<PinY Unit="MM">5.546025496812895</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="169" UniqueID="{380AF0DC-23AE-41C0-9A09-D666F4492D59}" Name="Produção" NameU="Manufacturing" Master="24">
+					<Text>NOVA APÓLICE</Text>
+					<XForm>
+						<PinX Unit="MM">4.301181102362205</PinX>
+						<PinY Unit="MM">3.385826771653543</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="172" UniqueID="{8FA27FC0-46D7-467F-A02F-C868A894739D}" Name="Receção.36" NameU="Reception" Master="25">
+					<Text>NOVO CLIENTE</Text>
+					<XForm>
+						<PinX Unit="MM">2.125984251968504</PinX>
+						<PinY Unit="MM">3.228346456692913</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="175" UniqueID="{73031708-70A2-4C1A-8413-0D00A7904A84}" Name="Vendas" NameU="Sales" Master="26">
+					<Text>ADIANTAMENTO DE COMISSÃO</Text>
+					<XForm>
+						<PinX Unit="MM">6.879921259842519</PinX>
+						<PinY Unit="MM">3.385826771653543</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.4 - ADIANTAMENTO DE COMISSÃO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="189" UniqueID="{B7FBAC9A-D7C0-4575-95F1-279AD788B719}" Name="Finanças" NameU="Finance" Master="29">
+					<Text>LANÇAMENTO DE CHEQUES E BOLETOS</Text>
+					<XForm>
+						<PinX Unit="MM">9.271653543307085</PinX>
+						<PinY Unit="MM">3.425196850393700</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.5 - LANÇAMENTO DE CHEQUES E BOLETOS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="195" UniqueID="{97CECEBE-305D-49FC-8351-B642986BE269}" Name="Criar item de lista" NameU="Create list item" Master="9">
+					<Text>CADASTROS</Text>
+					<XForm>
+						<PinX Unit="MM">1.123277559055119</PinX>
+						<PinY Unit="MM">7.372047244094487</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>1 - CADASTROS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="201" UniqueID="{0CEA2082-7948-4867-85F8-0D9745F89AB0}" Name="Criar item de lista.201" NameU="Create list item.201" Master="9">
+					<Text>CLIENTES</Text>
+					<XForm>
+						<PinX Unit="MM">2.893700787401574</PinX>
+						<PinY Unit="MM">7.372047244094488</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>2 - CLIENTES</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="204" UniqueID="{CC10B00E-BEA6-4662-9A1B-A9969C900377}" Name="Criar item de lista.204" NameU="Create list item.204" Master="9">
+					<Text>FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448818896</PinX>
+						<PinY Unit="MM">7.372047244094486</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3 - FINANCEIRO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="207" UniqueID="{821C6301-24B9-44A0-854E-D1FF5284E178}" Name="Criar item de lista.207" NameU="Create list item.207" Master="9">
+					<Text>IMPORTAÇÃO
+DE
+APÓLICE</Text>
+					<XForm>
+						<PinX Unit="MM">6.712598425196849</PinX>
+						<PinY Unit="MM">7.381889763779526</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>4 - IMPORTAÇÃO DE APÓLICES / PROPOSTAS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\magnoshiruji\Desktop\fluxograma sistema\imunevacinas.vsdx#4 - IMPORTAÇÃO DE APÓLICES / PROPOSTAS</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="210" UniqueID="{A421D6EB-CD75-46F4-BC82-3A03D7914A0E}" Name="Criar item de lista.210" NameU="Create list item.210" Master="9">
+					<Text>SEGURADORAS</Text>
+					<XForm>
+						<PinX Unit="MM">8.681102362204722</PinX>
+						<PinY Unit="MM">7.372047244094488</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>5 - SEGURADORAS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="213" UniqueID="{73B943A6-F316-4B40-8BC8-080ADD59CF91}" Name="Criar item de lista.213" NameU="Create list item.213" Master="9">
+					<Text>RELATÓRIOS</Text>
+					<XForm>
+						<PinX Unit="MM">10.572096456692911</PinX>
+						<PinY Unit="MM">7.372047244094487</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>6 - RELATÓRIOS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="5" Name="1 - CADASTROS" NameU="CADASTROS">
+			<Shapes>
+				<Shape ID="1" UniqueID="{410C828D-7D29-4E24-8D07-385B3F1D2381}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="6" Name="2 - CLIENTES" NameU="CLIENTES">
+			<Shapes>
+				<Shape ID="1" UniqueID="{EDF37D42-43ED-4E34-89D7-C73EC7FE91B3}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="3 - FINANCEIRO" NameU="FINANCEIRO">
+			<Layer IX="0">
+				<Name>Fluxograma</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Conexão</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{A6F089DF-61C1-46C4-A6AF-D7FA23B62506}" Name="Contabilidade" NameU="Accounting" Master="6">
+					<Text>FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">0.763332531031874</PinX>
+						<PinY Unit="MM">4.694288759756560</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="7" UniqueID="{9F93232C-CB7C-404B-91AA-F4BB6772E32E}" Name="Contas a Pagar" NameU="Accounts Payable" Master="7">
+					<Text>CONTAS À PAGAR</Text>
+					<XForm>
+						<PinX Unit="MM">3.897809717016813</PinX>
+						<PinY Unit="MM">5.219165835711593</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="12" UniqueID="{E0DC12BE-867A-4EC9-911A-5E03A3C3EC8E}" Name="Contas a Receber" NameU="Accounts Receivable" Master="8">
+					<Text>CONTAS A RECEBER
+</Text>
+					<XForm>
+						<PinX Unit="MM">3.897809717016813</PinX>
+						<PinY Unit="MM">3.962417907368565</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{315203EF-3A4B-4637-9BBC-C054FAA1834E}" Name="Criar item de lista" NameU="Create list item" Master="9">
+					<Text>INSERIR NOVA CONTA</Text>
+					<XForm>
+						<PinX Unit="MM">2.330571124024345</PinX>
+						<PinY Unit="MM">4.590791871540079</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="20" UniqueID="{F76F94C5-52BE-4E70-861C-87B128F3141C}" Name="Atribuir uma tarefa" NameU="Assign a task" Master="10">
+					<Text>EDITAR
+CONTA</Text>
+					<XForm>
+						<PinX Unit="MM">7.072860433930474</PinX>
+						<PinY Unit="MM">6.020132035897261</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{6459DB89-9272-4389-A162-11023DA3DEBE}" Name="Atribuir uma tarefa.29" NameU="Assign a task.29" Master="10">
+					<Text>BAIXAR CONTA</Text>
+					<XForm>
+						<PinX Unit="MM">7.072860433930474</PinX>
+						<PinY Unit="MM">4.446738644568995</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.1 - BAIXAR CONTAS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="26" UniqueID="{C83E0098-A369-4EFA-AA88-D511940185C6}" Name="Atribuir uma tarefa.32" NameU="Assign a task.32" Master="10">
+					<Text>REPLICAR CONTA</Text>
+					<XForm>
+						<PinX Unit="MM">7.072860433930474</PinX>
+						<PinY Unit="MM">2.984028470240344</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="29" UniqueID="{EF5EC48A-6C67-482D-B069-25AD25027FEF}" Name="Contas a Pagar.35" NameU="Accounts Payable.35" Master="7">
+					<Text>CONTAS PAGAS</Text>
+					<XForm>
+						<PinX Unit="MM">10.433070866141728</PinX>
+						<PinY Unit="MM">5.142179279991748</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.2 - CONTAS PAGAS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="34" UniqueID="{4D713370-964B-4338-BC62-052822356778}" Name="Contas a Pagar.73" NameU="Accounts Payable.73" Master="7">
+					<Text>CONTAS RECEBIDAS</Text>
+					<XForm>
+						<PinX Unit="MM">10.433070866141728</PinX>
+						<PinY Unit="MM">3.912938830244471</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.3 - CONTAS RECEBIDAS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="39" UniqueID="{597494AD-A684-4472-8614-7F2DED04AA04}" Name="Conexão dinâmica" NameU="Dynamic connector" Master="14">
+					<XForm>
+						<PinX Unit="MM">9.100419489048583</PinX>
+						<PinY Unit="MM">4.609578549352532</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{E78B7503-D3F0-494E-8A26-4752AB9B232F}" Name="Conexão dinâmica.89" NameU="Dynamic connector.89" Master="14">
+					<XForm>
+						<PinX Unit="MM">9.100419489048583</PinX>
+						<PinY Unit="MM">4.364719150334571</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="41" UniqueID="{1D189944-A14A-4E5E-8443-A1F1013B18DD}" Name="Iniciar um processo de tarefa" NameU="Start a task process" Master="15">
+					<Text>ESCOLHER UMA AÇÃO</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629921259</PinX>
+						<PinY Unit="MM">4.446738644568995</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="44" UniqueID="{8BEA3D39-381D-40B7-9E2D-AAC0B3BBA497}" Name="Conexão dinâmica.93" NameU="Dynamic connector.93" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.933956692913385</PinX>
+						<PinY Unit="MM">3.558238489839424</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="45" UniqueID="{C326BEC3-9DD0-46C0-8226-E8FFD617033A}" Name="Conexão dinâmica.94" NameU="Dynamic connector.94" Master="14">
+					<XForm>
+						<PinX Unit="MM">6.210629921259841</PinX>
+						<PinY Unit="MM">4.446738644568995</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="46" UniqueID="{5D705E0A-F2B8-429B-A4E3-4C6E15494D7D}" Name="Conexão dinâmica.95" NameU="Dynamic connector.95" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.933956692913385</PinX>
+						<PinY Unit="MM">5.390580407798373</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="47" UniqueID="{85197998-B704-4DB6-99FF-C3C5292F2536}" Name="Conexão dinâmica.96" NameU="Dynamic connector.96" Master="14">
+					<XForm>
+						<PinX Unit="MM">4.427092358050418</PinX>
+						<PinY Unit="MM">4.832952240140294</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="48" UniqueID="{BF72DBD0-75FE-4990-8696-6CA116844EF9}" Name="Conexão dinâmica.97" NameU="Dynamic connector.97" Master="14">
+					<XForm>
+						<PinX Unit="MM">4.611972770978256</PinX>
+						<PinY Unit="MM">4.019697863040941</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="49" UniqueID="{9A4F9CAD-1CB3-4174-8471-A6E1CD9A0EED}" Name="Conexão dinâmica.98" NameU="Dynamic connector.98" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.016810007592740</PinX>
+						<PinY Unit="MM">5.089794725440985</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="50" UniqueID="{449F1172-8C31-421B-8A37-16D0570C22BC}" Name="Conexão dinâmica.100" NameU="Dynamic connector.100" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.201690420520579</PinX>
+						<PinY Unit="MM">4.146627825505632</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="51" UniqueID="{E7472522-6895-4898-820D-294C6005B67B}" Name="Conexão dinâmica.101" NameU="Dynamic connector.101" Master="14">
+					<XForm>
+						<PinX Unit="MM">1.384378401443466</PinX>
+						<PinY Unit="MM">4.642540315648319</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="52" UniqueID="{8E8889AD-FAB9-4C30-9889-519D53C467D2}" Name="Dar entrada do item" NameU="Check in item" Master="16">
+					<Text>IMPRIME COMPROVANTE
+SIM / NÃO?</Text>
+					<XForm>
+						<PinX Unit="MM">8.375984251968507</PinX>
+						<PinY Unit="MM">7.259395523157857</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="55" UniqueID="{E3E4B5C3-04EA-4B32-949F-4B28A49F4222}" Name="Conexão dinâmica.105" NameU="Dynamic connector.105" Master="14">
+					<XForm>
+						<PinX Unit="MM">8.159376181961973</PinX>
+						<PinY Unit="MM">5.668251212048276</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="56" UniqueID="{770DFBE3-816D-4F14-A67A-CCD63556C3B9}" Name="Banco" NameU="Bank" Master="17">
+					<Text>ATUALIZA O SALDO E GERA O EXTRATO DO BANCO</Text>
+					<XForm>
+						<PinX Unit="MM">9.251968503937006</PinX>
+						<PinY Unit="MM">2.460629921259843</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.6 - SALDO E EXTRATO DO BANCO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="60" UniqueID="{21EF8118-B3FD-44CB-B8D0-B580369DA87B}" Name="Conexão dinâmica.110" NameU="Dynamic connector.110" Master="14">
+					<XForm>
+						<PinX Unit="MM">8.509868307946221</PinX>
+						<PinY Unit="MM">3.699811816153091</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="61" UniqueID="{29A2E250-6380-4112-9D66-226D5D3CDF8C}" Name="Definir variável do fluxo de trabalho" NameU="Set workflow variable" Master="19">
+					<Text>ATUALIZA AS INFORMAÇÕES DO TÍTULO</Text>
+					<XForm>
+						<PinX Unit="MM">3.897809717016813</PinX>
+						<PinY Unit="MM">7.528313316033863</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="64" UniqueID="{2A5870F8-3F6B-46A7-A92C-E0CE12508BF5}" Name="Conexão dinâmica.126" NameU="Dynamic connector.126" Master="14">
+					<XForm>
+						<PinX Unit="MM">6.035433500670494</PinX>
+						<PinY Unit="MM">6.931367743530807</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="65" UniqueID="{7D6FA4F5-8B66-4F87-B091-EE0E810729C9}" Name="Copiar documento" NameU="Copy document" Master="20">
+					<Text>GERA VÁRIAS CÓPIAS DO MESMO TÍTULO</Text>
+					<XForm>
+						<PinX Unit="MM">3.897809717016813</PinX>
+						<PinY Unit="MM">2.362204724409448</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="68" UniqueID="{8ADBA735-2C6C-4E4E-A685-B4FFB4FAF1BC}" Name="Conexão dinâmica.130" NameU="Dynamic connector.130" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.225381236461162</PinX>
+						<PinY Unit="MM">2.830261664890141</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="69" UniqueID="{18B6620D-C7B5-4202-9FDE-20DFED6FEE50}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="71" UniqueID="{C656E4F1-6813-4CF0-880E-8535033F7742}" Name="Atribuir uma tarefa.71" NameU="Assign a task.71" Master="10">
+					<Text>EXCLUIR CONTA</Text>
+					<XForm>
+						<PinX Unit="MM">7.072860433930473</PinX>
+						<PinY Unit="MM">1.851064195578172</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="76" UniqueID="{7957F26A-0977-4D4E-B9C8-33136E20E8BA}" Name="Copiar documento.76" NameU="Copy document.76" Master="20">
+					<Text>EXCLUI CONTA SE NÃO FOI GERADA POR APÓLICE</Text>
+					<XForm>
+						<PinX Unit="MM">3.897809717016813</PinX>
+						<PinY Unit="MM">0.923855860812160</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="79" UniqueID="{E5069DF0-FDCA-4480-A600-8B1EF8961162}" Name="Conexão dinâmica.79" NameU="Dynamic connector.79" Master="14">
+					<XForm>
+						<PinX Unit="MM">6.035433500670493</PinX>
+						<PinY Unit="MM">1.230314960629921</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="80" UniqueID="{04B5B16A-98C5-4772-8491-727223B5EF36}" Name="Conexão dinâmica.80" NameU="Dynamic connector.80" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.933956692913384</PinX>
+						<PinY Unit="MM">2.991756352508338</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="15" Name="3.1 - BAIXAR CONTAS" NameU="3.5 - BAIXAR CONTAS">
+			<Layer IX="0">
+				<Name>Fluxograma</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Contentor</Name>
+				<NameUniv>Container</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="2">
+				<Name>Conexão</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{3889CA22-CA56-4F42-8B8E-69D09FCC796A}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204724</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="3" UniqueID="{098CB454-2F9B-465A-BD1F-8C52991D4A28}" Name="Seta Curvada à Esquerda.3" NameU="Curved Left Arrow.3" Master="30">
+					<Text>VOLTAR PARA
+FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">2.579724409448819</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3 - FINANCEIRO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="58" UniqueID="{A1A21B40-0BF1-4708-88BA-40E7FC9F1D63}" Name="Tarefa" NameU="Task" Master="34">
+					<Text>Baixar Títulos por seleção, por semana ou por mês.</Text>
+					<XForm>
+						<PinX Unit="MM">2.165354330708661</PinX>
+						<PinY Unit="MM">5.452755905511809</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="85" UniqueID="{897AAD84-87A6-4B38-BB0A-5D3DFE641217}" Name="Tarefa.85" NameU="Task.85" Master="34">
+					<Text>Dentro do Menu financeiro selecione a opção contas à pagar ou contas à receber e siga os passos abaixo:
+1º: Selecione os títulos que você deseja baixar marcando a caixa da coluna sel.
+2º: No canto superior direito do grid de contas, clique no botão opções e em seguida selecione baixar títulos selecionados.
+OBS: Também é possível usar as opções de marcar e desmarcar todos no menu opções, assim como, baixar todos os títulos À vencer esta semana e À vencer este mês, selecionando as respectivas opções.</Text>
+					<XForm>
+						<PinX Unit="MM">2.165354330708661</PinX>
+						<PinY Unit="MM">3.976377952755905</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="109" UniqueID="{C9CFC59D-6953-432B-885C-B6BB2D763929}" Name="Tarefa.109" NameU="Task.109" Master="34">
+					<Text>Baixar títulos manualmente</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811023622</PinX>
+						<PinY Unit="MM">5.452755905511809</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="132" UniqueID="{FF794F46-91CA-455D-98CD-193184F12850}" Name="Tarefa.132" NameU="Task.132" Master="34">
+					<Text>Dentro do Menu financeiro selecione a opção contas à pagar ou contas à receber e siga os passos abaixo:
+1º: Caso seja necessário, pesquise por cliente, título, numero do documento, cód interno, cpf ou cnpj, para retornar os títulos desejados.
+2º: Após o retorno, selecione o título dando um duplo clique em cima do título desejado.
+3º: Clique no botão baixar e informe o valor da baixa, data da baixa e demais informações solicitadas.
+OBS: Não é possível baixar um título com um valor de baixa maior que o valor do título, caso o título seja baixado com um valor menor que o valor total do título, é gerado um novo título com o valor restante, isto não se aplica a cheques e boletos.</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811023622</PinX>
+						<PinY Unit="MM">3.976377952755905</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="155" UniqueID="{92541FA9-957C-4F25-A84C-E678B9F596A2}" Name="Tarefa.155" NameU="Task.155" Master="34">
+					<Text>Baixar títulos por Depósito de cheque pré-datados.</Text>
+					<XForm>
+						<PinX Unit="MM">9.606299212598428</PinX>
+						<PinY Unit="MM">5.452755905511809</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="178" UniqueID="{17F163D5-1065-450F-AD72-47573E332791}" Name="Tarefa.178" NameU="Task.178" Master="34">
+					<Text>Dentro do Menu financeiro selecione a opção contas à pagar ou contas à receber e siga os passos abaixo:
+1º: Selecione os títulos que você deseja baixar marcando a caixa da coluna sel.
+2º: No canto superior direito do grid de contas, clique no botão opções e em seguida selecione a opção Dep. De cheques pré-datados.
+OBS: Esta opção só pode ser usada para baixar cheques e ao concluir a baixa é gerado um comprovante dos cheques baixados.</Text>
+					<XForm>
+						<PinX Unit="MM">9.606299212598428</PinX>
+						<PinY Unit="MM">3.976377952755905</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="254" UniqueID="{23F8BEC6-EBCF-4028-9E9F-493B74771614}" Name="Banco" NameU="Bank" Master="17">
+					<Text>ATUALIZA O SALDO DO BANCO E COMPUTA A OPERAÇÃO NO EXTRATO DO BANCO</Text>
+					<XForm>
+						<PinX Unit="MM">2.165354330708661</PinX>
+						<PinY Unit="MM">1.673228346456693</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.6 - SALDO E EXTRATO DO BANCO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="258" UniqueID="{AA692CBF-D2E8-4E1D-AE3D-ADF4A9D8EEA2}" Name="Conexão dinâmica" NameU="Dynamic connector" Master="14">
+					<XForm>
+						<PinX Unit="MM">1.082612624241642</PinX>
+						<PinY Unit="MM">3.562992125984251</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="259" UniqueID="{14B2A8A0-D05F-4D2C-A41A-4D0B824E95D1}" Name="Conexão dinâmica.259" NameU="Dynamic connector.259" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.444946430876469</PinX>
+						<PinY Unit="MM">3.562992125984251</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="260" UniqueID="{08BB598E-1B44-4800-A2B2-4E0FCFD755E0}" Name="Conexão dinâmica.260" NameU="Dynamic connector.260" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.295340131663870</PinX>
+						<PinY Unit="MM">3.562992125984251</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="11" Name="3.2 - CONTAS PAGAS" NameU="3.1 - CONTAS PAGAS"></Page>
+		<Page ID="12" Name="3.3 - CONTAS RECEBIDAS" NameU="3.2 - CONTAS RECEBIDAS"></Page>
+		<Page ID="13" Name="3.4 - ADIANTAMENTO DE COMISSÃO" NameU="3.3 -">
+			<Layer IX="0">
+				<Name>Fluxograma</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Conexão</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="70" UniqueID="{5753F3AD-FD7D-4BAA-B513-FBB933E72CEA}" Name="Tarefa.70" NameU="Task.70" Master="34">
+					<Text>EM RELATÓRIO FINANCEIRO SELECIONE O CENTRO DE CUSTO: COMISSÃO E NATUREZA DA RECEITA: ADIANTAMENTO, PARA VISUALIZAR TODOS LANÇAMENTOS DESTA TELA NO SISTEMA.</Text>
+					<XForm>
+						<PinX Unit="MM">7.933070866141735</PinX>
+						<PinY Unit="MM">1.981299212598426</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="5" UniqueID="{68700AF6-637E-4FC2-941A-8639BBB1C845}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="7" UniqueID="{62CDE4AD-45E7-4BAD-9C8F-690E19E90F69}" Name="Seta Curvada à Esquerda.3" NameU="Curved Left Arrow.3" Master="30">
+					<Text>VOLTAR PARA
+FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">2.579724409448819</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3 - FINANCEIRO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="14" UniqueID="{5FAE09BB-A26C-4E0B-B1B2-A87475E83CF1}" Name="Vendas" NameU="Sales" Master="26">
+					<Text>ADIANTAMENTO DE COMISSÃO</Text>
+					<XForm>
+						<PinX Unit="MM">1.722440944881889</PinX>
+						<PinY Unit="MM">5.029527559055117</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="19" UniqueID="{B6071D02-7C5F-489A-BAE0-382D88CA1685}" Name="Tarefa" NameU="Task" Master="34">
+					<Text>DEFINA O PRODUTOR / CORRETOR
+DATA DE FATURA (DATA. VENCIMENTO), EMPRESA, BANCO, FORMA DE PAGAMENTO, VALORES E OBSERVAÇÃO.</Text>
+					<XForm>
+						<PinX Unit="MM">1.722440944881889</PinX>
+						<PinY Unit="MM">3.868110236220472</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="44" UniqueID="{A6D981DA-8029-43DE-A9AD-3088973F1C86}" Name="Decisão" NameU="Decision" Master="44">
+					<Text>CADASTRAR</Text>
+					<XForm>
+						<PinX Unit="MM">3.740157480314959</PinX>
+						<PinY Unit="MM">4.625984251968504</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="45" UniqueID="{83F0C469-7167-4D06-8306-3A82C6D0603E}" Name="Conexão dinâmica" NameU="Dynamic connector" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.346456702299943</PinX>
+						<PinY Unit="MM">4.099409448818896</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="48" UniqueID="{04686677-B81C-4FF9-982E-85887D8EB1A1}" Name="Documento" NameU="Document" Master="46">
+					<Text>É GERADO UM TÍTULO PAGO (JÁ BAIXADO) NEGATIVO NO SISTEMA, CORRESPONDENTE AO VALOR DE ADIANTAMENTO, CUJO CENTRO DE CUSTO É COMISSÃO E NATUREZA FINANCEIRA ADIANTAMENTO.</Text>
+					<XForm>
+						<PinX Unit="MM">6.456692913385826</PinX>
+						<PinY Unit="MM">4.645669291338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="50" UniqueID="{88850F6F-7276-4FDC-8C73-D2335DCB90CC}" Name="Conexão dinâmica.50" NameU="Dynamic connector.50" Master="14">
+					<XForm>
+						<PinX Unit="MM">4.389699238414869</PinX>
+						<PinY Unit="MM">5.610236220472441</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="53" UniqueID="{70A8CAE0-D006-4C68-A952-ACA1249CE257}" Name="Dados" NameU="Data" Master="47">
+					<Text>PODE SER CONFERIDO NOS SEGUINTES RELATÓRIOS</Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897637795</PinX>
+						<PinY Unit="MM">4.724409448818896</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="54" UniqueID="{CF5898C5-086E-466B-B7BC-7382DA26A2F0}" Name="Publicações" NameU="Publications" Master="41">
+					<Text>RELATÓRIO FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897637795</PinX>
+						<PinY Unit="MM">1.968503937007874</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>6.2 - RELATÓRIOS FINANCEIROS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="58" UniqueID="{9CCA5F12-FA71-4995-9A74-97B635552A27}" Name="Publicações.58" NameU="Publications.58" Master="41">
+					<Text>RELATÓRIO DE COMISSÕES</Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897637795</PinX>
+						<PinY Unit="MM">6.889763779527558</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>6.1 - RELATÓRIOS DE COMISSÃO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="62" UniqueID="{F9213554-7897-47D3-9A35-EC0E48FD8717}" Name="Conexão dinâmica.62" NameU="Dynamic connector.62" Master="14">
+					<XForm>
+						<PinX Unit="MM">8.218503937007872</PinX>
+						<PinY Unit="MM">4.685039370078739</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="68" UniqueID="{BADFF823-5142-4D28-907A-5C2C25E2CFDB}" Name="Conexão dinâmica.68" NameU="Dynamic connector.68" Master="14">
+					<XForm>
+						<PinX Unit="MM">9.448818897637795</PinX>
+						<PinY Unit="MM">3.426491706467017</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="69" UniqueID="{1B230003-2D2E-4B0E-92CA-5B4A4BACFBD5}" Name="Conexão dinâmica.69" NameU="Dynamic connector.69" Master="14">
+					<XForm>
+						<PinX Unit="MM">9.448818897637795</PinX>
+						<PinY Unit="MM">5.727051600619594</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="93" UniqueID="{02F124A0-9170-4E93-ACE4-2C168E60A994}" Name="Banco" NameU="Bank" Master="17">
+					<Text>ATUALIZA O SALDO E EXTRATO DO BANCO SELECIONADO.</Text>
+					<XForm>
+						<PinX Unit="MM">5.531496062992126</PinX>
+						<PinY Unit="MM">6.299212598425196</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.6 - SALDO E EXTRATO DO BANCO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="97" UniqueID="{8E2EC40F-0176-49FA-9BC7-74AE913A2789}" Name="Conexão dinâmica.97" NameU="Dynamic connector.97" Master="14">
+					<XForm>
+						<PinX Unit="MM">6.240222021427649</PinX>
+						<PinY Unit="MM">5.728346456692913</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="14" Name="3.5 - LANÇAMENTO DE CHEQUES E BOLETOS" NameU="3.4 - LANÇAMENTO DE CHEQUES E BOLETOS">
+			<Layer IX="0">
+				<Name>Fluxograma</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Conexão</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{E4FF048E-286E-4F5A-A36C-A3CBF986B2F3}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="3" UniqueID="{C9ED754D-1CCD-4D3D-A2EB-2FF49065FDCE}" Name="Seta Curvada à Esquerda.3" NameU="Curved Left Arrow.3" Master="30">
+					<Text>VOLTAR PARA
+FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">2.579724409448819</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3 - FINANCEIRO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="5" UniqueID="{8449BAAF-3C44-4352-8C36-6BBAC82997B5}" Name="Finanças" NameU="Finance" Master="29">
+					<Text>LANÇAMENTO DE CHEQUES E BOLETOS</Text>
+					<XForm>
+						<PinX Unit="MM">1.476377952755905</PinX>
+						<PinY Unit="MM">4.291338582677165</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="11" UniqueID="{9247F5B7-C31C-46DA-856A-0AE3BACCC2B7}" Name="Decisão" NameU="Decision" Master="44">
+					<Text>CHEQUE</Text>
+					<XForm>
+						<PinX Unit="MM">4.429133858267717</PinX>
+						<PinY Unit="MM">4.921259842519683</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="12" UniqueID="{87245513-A255-4A33-8795-1C03711B45DA}" Name="Decisão.12" NameU="Decision.12" Master="44">
+					<Text>BOLETO</Text>
+					<XForm>
+						<PinX Unit="MM">4.429133858267717</PinX>
+						<PinY Unit="MM">3.543307086614173</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="13" UniqueID="{D32C47F9-815C-4FBB-9027-62F6B1DC5E2B}" Name="Tarefa" NameU="Task" Master="34">
+					<Text>PREENCHER OS CAMPOS E CLICAR NO BOTÃO +;</Text>
+					<XForm>
+						<PinX Unit="MM">3.149606299212598</PinX>
+						<PinY Unit="MM">4.251968503937007</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{477BD6EE-C0B6-4C2F-9447-90F32AFE48CD}" Name="Conexão dinâmica" NameU="Dynamic connector" Master="14">
+					<XForm>
+						<PinX Unit="MM">2.313056667096940</PinX>
+						<PinY Unit="MM">4.291338582677165</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="37" UniqueID="{754482F0-086F-4F92-80C7-E2FB03162F3B}" Name="Conexão dinâmica.37" NameU="Dynamic connector.37" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.428088090551181</PinX>
+						<PinY Unit="MM">4.783464558011902</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="38" UniqueID="{35A820CA-C114-4A6D-AA51-EC36805483B4}" Name="Conexão dinâmica.38" NameU="Dynamic connector.38" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.543307086614173</PinX>
+						<PinY Unit="MM">3.700787401574803</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="39" UniqueID="{8D942134-657C-4C60-ADEA-4C3D42FB37AD}" Name="Tarefa.39" NameU="Task.39" Master="34">
+					<Text>GERA UM FINANCEIRO À RECEBER CORRESPONDENTE AO VALOR DO CHEQUE INSERIDO.</Text>
+					<XForm>
+						<PinX Unit="MM">6.476377952755904</PinX>
+						<PinY Unit="MM">5.511811023622047</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="62" UniqueID="{79A4A145-0AA1-4161-9BA8-F1DD51921F03}" Name="Tarefa.62" NameU="Task.62" Master="34">
+					<Text>GERA UM FINANCEIRO À PAGAR CORRESPONDENTE AO VALOR DO BOLETO INSERIDO.</Text>
+					<XForm>
+						<PinX Unit="MM">6.476377952755903</PinX>
+						<PinY Unit="MM">2.641939494405305</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="85" UniqueID="{FD074F8E-15D2-401A-BA76-229F51934927}" Name="Conexão dinâmica.85" NameU="Dynamic connector.85" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.019685039370077</PinX>
+						<PinY Unit="MM">5.364173228346456</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="86" UniqueID="{23FDB8E6-F78F-4DDA-873B-65CC7C9B335B}" Name="Conexão dinâmica.86" NameU="Dynamic connector.86" Master="14">
+					<XForm>
+						<PinX Unit="MM">5.698818897637795</PinX>
+						<PinY Unit="MM">3.289473675293296</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="87" UniqueID="{81BF2AB3-75BE-4045-8E0F-7395C41B32FB}" Name="Banco" NameU="Bank" Master="17">
+					<Text>ATUALIZA O SALDO E GERA O EXTRATO DO BANCO</Text>
+					<XForm>
+						<PinX Unit="MM">7.185039370078740</PinX>
+						<PinY Unit="MM">4.076875259013676</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3.6 - SALDO E EXTRATO DO BANCO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="91" UniqueID="{B5288166-A929-4F77-900F-4D32827877B6}" Name="Conexão dinâmica.91" NameU="Dynamic connector.91" Master="14">
+					<XForm>
+						<PinX Unit="MM">7.185039370078740</PinX>
+						<PinY Unit="MM">3.310130228254375</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="92" UniqueID="{60DAEB42-61EA-4F11-818D-D88F2140AC29}" Name="Conexão dinâmica.92" NameU="Dynamic connector.92" Master="14">
+					<XForm>
+						<PinX Unit="MM">6.422147032819154</PinX>
+						<PinY Unit="MM">4.597492747617073</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="93" UniqueID="{1BA4412E-B31D-4320-8749-3A767C2542DC}" Name="Processo.48" NameU="Process.48" Master="48">
+					<Text>A CONTA É INSERIDA NO FINANCEIRO E APARECE NO GRID DA TELA DE LANÇAMENTO DE CHEQUES E BOLETOS, POSSIBILITANDO A IMPRESSÃO DO COMPROVANTE DE ENTREGA DOS DOCUMENTOS</Text>
+					<XForm>
+						<PinX Unit="MM">9.320866141732283</PinX>
+						<PinY Unit="MM">2.947492747617074</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="94" UniqueID="{60ABD232-43DB-44F2-BF02-9CE576E2A068}" Name="Conexão dinâmica.94" NameU="Dynamic connector.94" Master="14">
+					<XForm>
+						<PinX Unit="MM">8.499080289144185</PinX>
+						<PinY Unit="MM">3.830812266887691</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="98" UniqueID="{96A5EBC0-06AA-4468-B882-B7EF5ED7C755}" Name="Documento" NameU="Document" Master="46">
+					<Text>AO SELECIONAR NO GRID OS TITULOS DE UMA MESMA PESSOA, PODERÁ SER IMPRESSO O COMPROVANTE, CLICANDO NO BOTÃO SUSPENSO “OPÇÕES” E ESCOLHENDO A OPÇÃO COMPROVANTE DE RECEBIMENTO.</Text>
+					<XForm>
+						<PinX Unit="MM">9.675196850393700</PinX>
+						<PinY Unit="MM">6.553978450062163</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Custo</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Número do Processo</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Proprietário</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Função</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Data de Início</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Data de Fim</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Estado</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="99" UniqueID="{DDE56BBA-642D-4086-B80D-CD2DA1917640}" Name="Conexão dinâmica.99" NameU="Dynamic connector.99" Master="14">
+					<XForm>
+						<PinX Unit="MM">9.995078740157480</PinX>
+						<PinY Unit="MM">4.507560609200166</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="100" UniqueID="{CB21A275-8AF9-4A69-8663-CC15A8525B80}" Name="Dar entrada do item" NameU="Check in item" Master="16">
+					<Text>IMPRIME COMPROVANTE</Text>
+					<XForm>
+						<PinX Unit="MM">5.846456692913385</PinX>
+						<PinY Unit="MM">7.114256994471442</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="103" UniqueID="{94480CAE-FE6A-46A2-9259-B87655D2CACC}" Name="Conexão dinâmica.103" NameU="Dynamic connector.103" Master="14">
+					<XForm>
+						<PinX Unit="MM">7.549212598425196</PinX>
+						<PinY Unit="MM">6.834117722266802</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="16" Name="3.6 - SALDO E EXTRATO DO BANCO" NameU="SALDO E EXTRATO DO BANCO">
+			<Layer IX="0">
+				<Name>Fluxograma</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Conexão</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="53" UniqueID="{C3EE16FE-6B9E-4083-AA42-F46DB5EC983C}" Name="Tarefa.53" NameU="Task.53" Master="34">
+					<Text>PODERÁ SER VISUALIZADO NO CADASTRO DE BANCOS OU EM RELATÓRIOS -&gt; FINANCEIRO -&gt; EXTRATO BANCÁRIO</Text>
+					<XForm>
+						<PinX Unit="MM">6.387795275590556</PinX>
+						<PinY Unit="MM">3.371062992125983</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="30" UniqueID="{5B59003A-D5A2-4A5B-BD2D-65F94502EE45}" Name="Tarefa" NameU="Task" Master="34">
+					<Text>PODERÁ SER VISUALIZADO EM RELATÓRIOS -&gt; FINANCEIRO -&gt; EXTRATO BANCÁRIO</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992125990</PinX>
+						<PinY Unit="MM">5.226377952755904</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="2" Name="BpmnCategories" NameU="BpmnCategories">
+						<Value></Value>
+						<Label>Categorias</Label>
+					</Prop>
+					<Prop ID="3" Name="BpmnDocumentation" NameU="BpmnDocumentation">
+						<Value></Value>
+						<Label>Documentação</Label>
+					</Prop>
+					<Prop ID="6" Name="BpmnLoopType" NameU="BpmnLoopType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoCiclo</Label>
+					</Prop>
+					<Prop ID="7" Name="BpmnTaskType" NameU="BpmnTaskType">
+						<Value Unit="STR">Nenhum</Value>
+						<Label>TipoTarefa</Label>
+					</Prop>
+					<Prop ID="13" Name="BpmnIsForCompensation" NameU="BpmnIsForCompensation">
+						<Value Unit="STR">FALSE</Value>
+						<Label>ParaCompensação</Label>
+					</Prop>
+					<Prop ID="17" Name="BpmnBoundaryType" NameU="BpmnBoundaryType">
+						<Value Unit="STR">Predefinição</Value>
+						<Label>TipoDeLimite</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="1" UniqueID="{4F0F4B1F-7590-438C-8286-F3828127A4B6}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204724</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="3" UniqueID="{C14F215D-3EA6-470D-AE0C-16EA96F5B745}" Name="Seta Curvada à Esquerda.3" NameU="Curved Left Arrow.3" Master="30">
+					<Text>VOLTAR PARA
+FINANCEIRO</Text>
+					<XForm>
+						<PinX Unit="MM">2.579724409448819</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>3 - FINANCEIRO</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="5" UniqueID="{FBCC9840-911E-4046-A74D-EA1E1B4DF3A3}" Name="Operações" NameU="Operations" Master="38">
+					<Text>EXTRATO DO BANCO</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448818901</PinX>
+						<PinY Unit="MM">5.216535433070865</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="9" UniqueID="{5DEFB51C-B7CE-4616-A320-3EC9AEBD011C}" Name="Banco" NameU="Bank" Master="17">
+					<Text>ATUALIZA SALDO E EXTRATO DO BANCO QUANDO UMA BAIXA É REALIZADA OU CANCELADA.</Text>
+					<XForm>
+						<PinX Unit="MM">2.165354330708667</PinX>
+						<PinY Unit="MM">4.330708661417322</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="18" UniqueID="{C4A3D20D-790A-4C41-A0A4-8E6F0C6BFD9F}" Name="Folha de pagamentos" NameU="Payroll" Master="27">
+					<Text>SALDO DO BANCO</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448818901</PinX>
+						<PinY Unit="MM">3.326771653543307</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="24" UniqueID="{A8691C92-DFA4-4025-BCC1-4F9412DF1622}" Name="Conexão dinâmica" NameU="Dynamic connector" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.198754356525110</PinX>
+						<PinY Unit="MM">5.019749580482767</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="25" UniqueID="{53F7EB3A-EFAD-4F5D-93C2-E2ADB0EB0E9A}" Name="Conexão dinâmica.25" NameU="Dynamic connector.25" Master="14">
+					<XForm>
+						<PinX Unit="MM">3.691009423002457</PinX>
+						<PinY Unit="MM">4.035497611978830</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="76" UniqueID="{7D122C41-3FF3-456A-91F5-5031AC9A4562}" Name="Publicações" NameU="Publications" Master="41">
+					<Text>RELATÓRIOS -&gt; FINANCEIROS</Text>
+					<XForm>
+						<PinX Unit="MM">9.881889763779526</PinX>
+						<PinY Unit="MM">4.330708661417322</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>6.2 - RELATÓRIOS FINANCEIROS</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="80" UniqueID="{73CC6AC6-C7FD-4125-8AE9-167D3133461A}" Name="Conexão dinâmica.80" NameU="Dynamic connector.80" Master="14">
+					<XForm>
+						<PinX Unit="MM">7.362140183296762</PinX>
+						<PinY Unit="MM">4.778543307086613</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="81" UniqueID="{799471D3-3249-4534-B6E1-517900640AA0}" Name="Conexão dinâmica.81" NameU="Dynamic connector.81" Master="14">
+					<XForm>
+						<PinX Unit="MM">7.303149606299213</PinX>
+						<PinY Unit="MM">3.375855169743126</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="17" Name="3.7 - CANCELAR BAIXA" NameU="3.7 - CANCELAR BAIXA"></Page>
+		<Page ID="7" Name="4 - IMPORTAÇÃO DE APÓLICES / PROPOSTAS" NameU="IMPORTAÇÃO DE APÓLICES / PROPOSTAS">
+			<Shapes>
+				<Shape ID="1" UniqueID="{CB35FC00-1D52-4CBA-80AF-F794F08D5E60}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="8" Name="5 - SEGURADORAS" NameU="SEGURADORAS">
+			<Shapes>
+				<Shape ID="1" UniqueID="{2D5D4C9F-E972-4AA9-BB6B-1F26A3D6CE18}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="10" Name="6 - RELATÓRIOS" NameU="6 - RELATÓRIOS">
+			<Shapes>
+				<Shape ID="1" UniqueID="{516F326E-7AEF-4A5A-A471-49CE832A225D}" Name="Seta Curvada à Esquerda" NameU="Curved Left Arrow" Master="30">
+					<Text>VOLTAR PARA
+DASHBOARD</Text>
+					<XForm>
+						<PinX Unit="MM">1.181102362204725</PinX>
+						<PinY Unit="MM">7.330792427542308</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>DASHBOARD</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="19" Name="6.1 - RELATÓRIOS DE COMISSÃO" NameU="6.1 - RELATÓRIOS DE COMISSÃO"></Page>
+		<Page ID="18" Name="6.2 - RELATÓRIOS FINANCEIROS" NameU="6.2 - RELATÓRIOS FINANCEIROS"></Page>
+	</Pages>
+</VisioDocument>

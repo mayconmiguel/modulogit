@@ -1,0 +1,169 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="visio.css"/>
+<title>
+imunevacinas
+</title>
+<script type="text/javascript" language="javascript">
+function UpdateTooltip(){};
+function OnShapeClick(){};
+</script>
+
+<script src="png_1.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="javascript">
+	if( (parent.isSVG) || 
+		(parent.isVML && parent.vmlSupported) || 
+		(parent.isXAML && parent.isUpLevel)) 
+	{
+		location.replace(parent.g_FileList[parent.g_CurPageIndex].PriImage);
+	}
+</script>
+
+
+<script type="text/javascript" language="javascript">
+var pageID = 16;
+var isUpLevel = parent.isUpLevel;
+var OnShapeClick = null;
+if (!parent.isMac)
+{
+	OnShapeClick = parent.OnShapeClick;
+}
+
+var OnShapeKey = parent.OnShapeKey;
+var UpdateTooltip = parent.UpdateTooltip;
+var clickMenu = parent.clickMenu;
+var toggleMenuDiv = parent.toggleMenuDiv;
+var toggleMenuLink = parent.toggleMenuLink;
+var GoToPage = parent.GoToPage;
+
+
+if (parent.isUpLevel)
+{
+
+	if (parent.g_FirstPageToLoad != null && parent.g_FirstPageToLoad.length > 0)
+	{
+		if (parent.g_FileList[parent.g_CurPageIndex].PageID != pageID)
+		{
+			var fileEntry = parent.g_FileList[parent.g_CurPageIndex];
+			var fileToLoad = fileToLoad = fileEntry.PriImage;
+			if (fileEntry.SecImage.length > 0)
+			{
+				fileToLoad = fileEntry.SecImage;
+			}
+
+			location.replace(fileToLoad);
+		}
+
+		parent.g_FirstPageToLoad = null;
+	}
+
+
+	var viewMgr = new parent.CViewMgr();
+	parent.viewMgr = viewMgr;
+
+	viewMgr.SupportsDetails = true;
+	viewMgr.SupportsSearch = true;
+
+	viewMgr.put_Location = ViewMgrSetRasterLocation;
+	viewMgr.visBBoxLeft = 0.664083;
+	viewMgr.visBBoxRight = 10.475832;
+	viewMgr.visBBoxBottom = 2.452453;
+	viewMgr.visBBoxTop = 7.847812;
+	viewMgr.highlightDiv = null;
+}
+
+function load ()
+{
+	if(isUpLevel)
+	{
+		arrowdiv.innerHTML = '<img id="arrowgif" alt="Mostra a localização da forma selecionada" src="arrow.png"/>';
+
+		var pageIndex = parent.PageIndexFromID (pageID);
+		parent.CurPageUpdate (pageIndex);
+	}
+}
+
+function unload()
+{
+	if(isUpLevel)
+	{
+		viewMgr = null;
+		parent.viewMgr = null;
+	}
+}
+
+window.onload = load;
+window.onunload = unload;
+document.onclick = clickMenu;
+
+</script>
+<style type="text/css"> 
+body {
+	background:url(foo) fixed;
+	padding: 10px;
+}
+div.banner {
+	position: fixed;
+	_position: absolute;
+	top: 0;
+	left: 0;
+	_top: expression(eval(document.body.scrollTop));
+	_left: expression(eval(document.body.scrollLeft));
+	width: 100%;
+	_width: expression(eval(document.body.clientWidth));
+	margin: 0;
+	padding: 3px;
+	padding-left: 6px;
+	background:lime;
+	background-color: #FFFFC6;
+	font: 11px tahoma,arial,serif;
+	border-bottom: 2px ridge #FFFFC6;
+}
+</style>
+</head>
+
+<body class="pageView" bgcolor="#FFFFFF" style="margin: 0px">
+
+<script type="text/javascript" language="javascript">
+// Displays the banner prompt to install Silverlight
+if (parent.slSupported && !parent.slInstalled)
+{
+	var slBanner = document.createElement("div");
+	slBanner.className = "banner";
+	slBanner.innerHTML = 'Para ativar a funcionalidade completa, como Panorâmica e Zoom, <a href="http://www.microsoft.com/silverlight/resources/install.aspx" target="parent">clique aqui</a> para instalar o plug-in do Silverlight.';
+
+	document.body.appendChild(slBanner);
+	document.body.style.paddingTop = "2.5em";
+}
+</script>
+
+
+<div id="arrowdiv" style="position:absolute;top:0;left:0;visibility:hidden;z-index:5">
+</div>
+
+<div id="menu1" onclick="clickMenu()" class="hlMenu">
+</div>
+<DIV id="RasterDiv" style="margin:10px">
+
+<center>
+  <IMG id="ConvertedImage" SRC="png_10.png" ALT="3.6 - SALDO E EXTRATO DO BANCO" name=RasterImage BORDER="0" USEMAP="#visImageMap">
+</center>
+
+<MAP NAME="visImageMap">
+  <AREA shape="POLYGON" tabindex="1" ALT="RELATÓRIOS -&#62; FINANCEIROS" origTitle="RELATÓRIOS -&#62; FINANCEIROS" TITLE="RELATÓRIOS -&#62; FINANCEIROS" HREF="png_16.htm" target="frmDrawing" COORDS="862,371,861,370,861,370,861,369,861,369,861,368,861,368,862,368,862,368,894,368,914,368,914,365,858,365,858,301,856,301,856,301,856,301,856,371,856,372,856,373,857,373,858,373,912,373,912,371,862,371" onmouseover="UpdateTooltip(this,16,76,event)" onfocus="UpdateTooltip(this,16,76,event)" onclick="return OnShapeClick(16,76,event);" onkeyup="OnShapeKey(16,76,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="RELATÓRIOS -&#62; FINANCEIROS" origTitle="RELATÓRIOS -&#62; FINANCEIROS" TITLE="RELATÓRIOS -&#62; FINANCEIROS" HREF="png_16.htm" target="frmDrawing" COORDS="867,360,866,359,866,359,865,358,865,358,866,357,866,357,867,357,867,357,899,357,919,357,919,290,861,290,861,290,861,290,861,360,861,361,861,362,862,362,863,362,917,362,917,360,867,360" onmouseover="UpdateTooltip(this,16,76,event)" onfocus="UpdateTooltip(this,16,76,event)" onclick="return OnShapeClick(16,76,event);" onkeyup="OnShapeKey(16,76,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="RELATÓRIOS -&#62; FINANCEIROS" origTitle="RELATÓRIOS -&#62; FINANCEIROS" TITLE="RELATÓRIOS -&#62; FINANCEIROS" HREF="png_16.htm" target="frmDrawing" COORDS="857,382,856,382,856,382,856,381,856,381,856,380,856,379,857,379,857,379,889,379,909,379,909,377,853,377,853,313,851,313,851,313,851,313,851,383,851,384,851,384,852,385,853,385,907,385,907,382,857,382" onmouseover="UpdateTooltip(this,16,76,event)" onfocus="UpdateTooltip(this,16,76,event)" onclick="return OnShapeClick(16,76,event);" onkeyup="OnShapeKey(16,76,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="RELATÓRIOS -&#62; FINANCEIROS" origTitle="RELATÓRIOS -&#62; FINANCEIROS" TITLE="RELATÓRIOS -&#62; FINANCEIROS" HREF="png_16.htm" target="frmDrawing" COORDS="926,270,935,270,935,252,923,252,917,252,838,252,838,270,844,270,844,286,926,286,926,270" onmouseover="UpdateTooltip(this,16,76,event)" onfocus="UpdateTooltip(this,16,76,event)" onclick="return OnShapeClick(16,76,event);" onkeyup="OnShapeKey(16,76,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="VOLTAR PARA FINANCEIRO" origTitle="VOLTAR PARA FINANCEIRO" TITLE="VOLTAR PARA FINANCEIRO" HREF="png_4.htm" target="frmDrawing" COORDS="230,45,226,50,220,54,214,58,206,62,197,65,187,67,176,69,165,70,154,70,154,61,135,80,154,99,154,89,165,89,176,88,187,86,197,84,206,81,214,77,220,73,226,69,230,64,232,59,233,54,233,54,233,35,233,35,232,31,230,26,226,22,220,18,213,14,204,11,195,8,184,5,172,3,160,2,148,1,135,1,135,19,148,20,160,21,172,22,184,24,195,27,204,30,213,33,220,37,226,41,230,45" onmouseover="UpdateTooltip(this,16,3,event)" onfocus="UpdateTooltip(this,16,3,event)" onclick="return OnShapeClick(16,3,event);" onkeyup="OnShapeKey(16,3,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="VOLTAR PARA FINANCEIRO" origTitle="VOLTAR PARA FINANCEIRO" TITLE="VOLTAR PARA FINANCEIRO" HREF="png_4.htm" target="frmDrawing" COORDS="222,118,226,118,226,100,142,100,142,118,146,118,146,134,222,134,222,118" onmouseover="UpdateTooltip(this,16,3,event)" onfocus="UpdateTooltip(this,16,3,event)" onclick="return OnShapeClick(16,3,event);" onkeyup="OnShapeKey(16,3,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="VOLTAR PARA DASHBOARD" origTitle="VOLTAR PARA DASHBOARD" TITLE="VOLTAR PARA DASHBOARD" HREF="png_1.htm" target="frmDrawing" COORDS="96,45,92,50,86,54,79,58,71,62,62,65,52,67,42,69,31,70,19,70,19,61,1,80,19,99,19,89,31,89,42,88,52,86,62,84,71,81,79,77,86,73,92,69,96,64,98,59,99,54,99,54,99,35,99,35,98,31,95,26,91,22,86,18,78,14,70,11,60,8,50,5,38,3,26,2,13,1,1,1,1,19,13,20,26,21,38,22,50,24,60,27,70,30,79,33,86,37,91,41,96,45" onmouseover="UpdateTooltip(this,16,1,event)" onfocus="UpdateTooltip(this,16,1,event)" onclick="return OnShapeClick(16,1,event);" onkeyup="OnShapeKey(16,1,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="VOLTAR PARA DASHBOARD" origTitle="VOLTAR PARA DASHBOARD" TITLE="VOLTAR PARA DASHBOARD" HREF="png_1.htm" target="frmDrawing" COORDS="89,118,92,118,92,100,7,100,7,118,11,118,11,134,89,134,89,118" onmouseover="UpdateTooltip(this,16,1,event)" onfocus="UpdateTooltip(this,16,1,event)" onclick="return OnShapeClick(16,1,event);" onkeyup="OnShapeKey(16,1,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="PODERÁ SER VISUALIZADO EM RELATÓRIOS -&#62; FINANCEIRO -&#62;..." origTitle="PODERÁ SER VISUALIZADO EM RELATÓRIOS -&#62; FINANCEIRO -&#62;..." TITLE="PODERÁ SER VISUALIZADO EM RELATÓRIOS -&#62; FINANCEIRO -&#62;..."  target="_top" COORDS="443,298,677,298,680,297,682,296,684,293,685,290,685,213,684,210,682,208,680,206,677,205,443,205,440,206,437,208,436,210,435,213,435,290,436,293,437,296,440,297,443,298" onmouseover="UpdateTooltip(this,16,30,event)" onfocus="UpdateTooltip(this,16,30,event)" onclick="return OnShapeClick(16,30,event);" onkeyup="OnShapeKey(16,30,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="PODERÁ SER VISUALIZADO NO CADASTRO DE BANCOS OU EM RELATÓRIOS..." origTitle="PODERÁ SER VISUALIZADO NO CADASTRO DE BANCOS OU EM RELATÓRIOS..." TITLE="PODERÁ SER VISUALIZADO NO CADASTRO DE BANCOS OU EM RELATÓRIOS..."  target="_top" COORDS="448,392,420,392,417,393,415,395,413,397,413,400,413,460,413,462,415,465,417,467,420,467,679,467,682,467,684,465,686,462,687,460,687,400,686,397,684,395,682,393,679,392,655,392,655,392,448,392,448,392" onmouseover="UpdateTooltip(this,16,53,event)" onfocus="UpdateTooltip(this,16,53,event)" onclick="return OnShapeClick(16,53,event);" onkeyup="OnShapeKey(16,53,event);">
+</MAP>
+
+
+</DIV>
+</body>
+</html>
